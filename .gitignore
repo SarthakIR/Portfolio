@@ -1,0 +1,14 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+.#*
+
+# Temporary exports
+*.tmp
+*.temp
